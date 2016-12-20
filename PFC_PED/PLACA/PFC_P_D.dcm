@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT90USB1287
+D TQFP64, 128k Flash, 8K SRAM, 4K EEPROM, USB 2.0
+K AVR 8bit Microcontroller USB
+F http://www.atmel.com/Images/doc7707.pdf
+$ENDCMP
+#
+$CMP AT90USB162-A
+D TQFP32, 16k Flash, 512B SRAM, 512B EEPROM, USB 2.0
+K AVR 8bit Microcontroller USB
+F http://www.atmel.com/Images/doc7707.pdf
+$ENDCMP
+#
+$CMP DS18B20
+D TO92, 1 WIRE TEMPERATURE SENSOR
+$ENDCMP
+#
+$CMP MAN71A504D
+D DIP, 7 SEGMENTS LED DIPLAY
+K AVR 8bit Microcontroller USB
+F http://www.datasheetframe.com/PDF/MAN71A-PDF/403853
+$ENDCMP
+#
+$CMP PCF8575
+D SSOP, I2C IO EXPANDER
+K AVR 8bit Microcontroller USB
+F http://www.atmel.com/Images/doc7707.pdf
+$ENDCMP
+#
+#End Doc Library
